@@ -4,7 +4,7 @@
 
 ## 실행 방법
 ```bash
-# 명칭이 'nia_dm_prelim'인 데이터셋을 사용해 세션 실행하기
+# 명칭이 'nia_dm'인 데이터셋을 사용해 세션 실행하기
 $ nsml run -d nia_dm
 # 메인 파일명이 'main.py'가 아닌 경우('-e' 옵션으로 entry point 지정)
 # 예: nsml run -d nia_dm -e main_lightgbm.py
